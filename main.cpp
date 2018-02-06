@@ -1,4 +1,4 @@
-//Function to perform a binay search of an array
+//Function to perform a binary search of an array
 //Precondition: Elements of array arr are in ascending order and the first n elements are to be searched for an item.
 //Postcondition: found is true and mid is the position of item if the search is successful; otherwise found is false.
 
