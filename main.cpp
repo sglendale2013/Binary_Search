@@ -31,7 +31,9 @@ int main() {
 
 	//Output
 	if (found == true)
-		std::cout << "Item " << item << " found at array position " << mid << std::endl;
+		std::cout << "Item " << item << " found at array position " << mid <<"."<< std::endl;
+	else
+		std::cout << "Item " << item << " not found in array." << std::endl;
 
 	return 0;
 }
